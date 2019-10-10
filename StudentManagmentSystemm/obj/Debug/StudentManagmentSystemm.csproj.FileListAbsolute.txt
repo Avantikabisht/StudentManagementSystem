@@ -1,0 +1,8 @@
+D:\Projects\learning project code\StudentManagmentSystemm\StudentManagmentSystemm\bin\Debug\StudentManagmentSystemm.exe.config
+D:\Projects\learning project code\StudentManagmentSystemm\StudentManagmentSystemm\bin\Debug\StudentManagmentSystemm.exe
+D:\Projects\learning project code\StudentManagmentSystemm\StudentManagmentSystemm\bin\Debug\StudentManagmentSystemm.pdb
+D:\Projects\learning project code\StudentManagmentSystemm\StudentManagmentSystemm\obj\Debug\StudentManagmentSystemm.csprojResolveAssemblyReference.cache
+D:\Projects\learning project code\StudentManagmentSystemm\StudentManagmentSystemm\obj\Debug\StudentManagmentSystemm.Properties.Resources.resources
+D:\Projects\learning project code\StudentManagmentSystemm\StudentManagmentSystemm\obj\Debug\StudentManagmentSystemm.csproj.GenerateResource.Cache
+D:\Projects\learning project code\StudentManagmentSystemm\StudentManagmentSystemm\obj\Debug\StudentManagmentSystemm.exe
+D:\Projects\learning project code\StudentManagmentSystemm\StudentManagmentSystemm\obj\Debug\StudentManagmentSystemm.pdb

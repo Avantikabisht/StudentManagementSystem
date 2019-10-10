@@ -1,0 +1,11 @@
+D:\Projects\learning project code\StudentManagmentSystemm\Student.BLL\obj\Debug\Student.BLL.csprojResolveAssemblyReference.cache
+D:\Projects\learning project code\StudentManagmentSystemm\Student.BLL\bin\Debug\Student.BLL.dll
+D:\Projects\learning project code\StudentManagmentSystemm\Student.BLL\bin\Debug\Student.BLL.pdb
+D:\Projects\learning project code\StudentManagmentSystemm\Student.BLL\bin\Debug\Student.DAL.dll
+D:\Projects\learning project code\StudentManagmentSystemm\Student.BLL\bin\Debug\Student.DTO.dll
+D:\Projects\learning project code\StudentManagmentSystemm\Student.BLL\bin\Debug\StudentMgmt.BL.dll
+D:\Projects\learning project code\StudentManagmentSystemm\Student.BLL\bin\Debug\Student.DAL.pdb
+D:\Projects\learning project code\StudentManagmentSystemm\Student.BLL\bin\Debug\Student.DTO.pdb
+D:\Projects\learning project code\StudentManagmentSystemm\Student.BLL\bin\Debug\StudentMgmt.BL.pdb
+D:\Projects\learning project code\StudentManagmentSystemm\Student.BLL\obj\Debug\Student.BLL.dll
+D:\Projects\learning project code\StudentManagmentSystemm\Student.BLL\obj\Debug\Student.BLL.pdb

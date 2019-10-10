@@ -1,0 +1,5 @@
+D:\Projects\learning project code\StudentManagmentSystemm\Student.DTO\bin\Debug\Student.DTO.dll
+D:\Projects\learning project code\StudentManagmentSystemm\Student.DTO\bin\Debug\Student.DTO.pdb
+D:\Projects\learning project code\StudentManagmentSystemm\Student.DTO\obj\Debug\Student.DTO.dll
+D:\Projects\learning project code\StudentManagmentSystemm\Student.DTO\obj\Debug\Student.DTO.pdb
+D:\Projects\learning project code\StudentManagmentSystemm\Student.DTO\obj\Debug\Student.DTO.csprojResolveAssemblyReference.cache

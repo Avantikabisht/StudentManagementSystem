@@ -1,0 +1,7 @@
+D:\Projects\learning project code\StudentManagmentSystemm\Student.DAL\bin\Debug\Student.DAL.dll
+D:\Projects\learning project code\StudentManagmentSystemm\Student.DAL\bin\Debug\Student.DAL.pdb
+D:\Projects\learning project code\StudentManagmentSystemm\Student.DAL\bin\Debug\Student.DTO.dll
+D:\Projects\learning project code\StudentManagmentSystemm\Student.DAL\bin\Debug\Student.DTO.pdb
+D:\Projects\learning project code\StudentManagmentSystemm\Student.DAL\obj\Debug\Student.DAL.csprojResolveAssemblyReference.cache
+D:\Projects\learning project code\StudentManagmentSystemm\Student.DAL\obj\Debug\Student.DAL.dll
+D:\Projects\learning project code\StudentManagmentSystemm\Student.DAL\obj\Debug\Student.DAL.pdb
